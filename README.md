@@ -1,4 +1,4 @@
-# Sakura Study
+# Toán Tương Tác
 
 ![SakuraStudyBanner](https://user-images.githubusercontent.com/103476893/235792567-191bd114-efb2-422b-9f50-db69138e6582.jpg 'Sakura Study Logo')
 

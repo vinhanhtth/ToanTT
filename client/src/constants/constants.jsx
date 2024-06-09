@@ -29,7 +29,7 @@ const sidebarNavItems = [
 const socialLinks = [
   {
     title: 'Github',
-    url: 'https://github.com/vinhanhtth',
+    url: 'https://github.com/vinhanhtth/ToanTT',
     icon: <FaGithub className="social-link" />,
   },
 ];
